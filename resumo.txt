@@ -1,0 +1,7 @@
+MVC (Model-View-Controller):
+Divide a aplicação em três componentes principais:
+- Model: Gerencia os dados e lógica de negócio,
+- View: Exibe a interface do usuário
+- Controller: Lida com a interação do usuário, conectando a View ao Model.
+
+É simples, mas pode levar a controllers muito complexos.
